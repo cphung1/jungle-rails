@@ -4,6 +4,15 @@
     <h1>Order #<%= @order.id %></h1>
   </header>
 
+  <div class="order-summary jumbotron">
+    <h4>Thank you for your order!</h4>
+  </div>
+
+  <h4>Order Details:</h4>
+  <div class=email>
+    <h5>Email: <%= @order.email %> </h5>
+  </div>
+
   <table class="table table-bordered">
   <thead>
     <tr>
@@ -17,6 +26,8 @@
   <% @line_items.each do |item| %>
     <%= render 'item', product: item.product, quantity: item.quantity, price: item.item_price_cents %>
   <% end %>
+
+
   </tbody>
   <tfoot>
     <tr>
@@ -31,10 +42,6 @@
 </table>
 
 
-
-  <div class="order-summary jumbotron">
-    <h4>Thank you for your order!</h4>
-  </div>
 
   <%= link_to "Continue Shopping", root_path, class: 'btn btn-lg btn-primary' %>
 
