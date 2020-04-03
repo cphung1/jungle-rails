@@ -15,3 +15,21 @@ body {
 form.button_to {
   display: inline;
 }
+
+// Nav Bar
+.nav.navbar-nav.navbar-right{
+  display: flex;
+}
+
+.logged-in {
+  align-self: center;
+}
+
+.divider_logged_in {
+  align-self: center;
+  padding-left: 1em;
+}
+
+.divider_logged_out {
+  align-self: center;
+}
