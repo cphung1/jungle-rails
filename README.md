@@ -2,8 +2,32 @@
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
+## Final Product 
+**Main Page**
+!["Screenshot of main page"](https://github.com/cphung1/scheduler/blob/master/public/images/main_page.png)
 
-## Setup
+**Create a new appointment**
+!["Screenshot of form to create an appointment"](https://github.com/cphung1/scheduler/blob/master/public/images/create_appt.png)
+
+**Delete Confirmation**
+!["Screenshot of confirmation for deleting appointment"](https://github.com/cphung1/scheduler/blob/master/public/images/delete_appt.png)
+
+**Transition States**
+!["Screenshot of loading status for async requests"](https://github.com/cphung1/scheduler/blob/master/public/images/transition_saving.png)
+
+**Error Handling**
+!["Screenshot of error handling"](https://github.com/cphung1/scheduler/blob/master/public/images/error_msg.png)
+
+**Storybook Component Tests**
+!["Screenshot of Storybook Component Tests"](https://github.com/cphung1/scheduler/blob/master/public/images/storybook.png)
+
+**Jest Unit Tests**
+!["Screenshot of Jest Unit Tests"](https://github.com/cphung1/scheduler/blob/master/public/images/jest.png)
+
+**Cypress E2E Tests**
+!["Screenshot of Cypress E2E Tests"](https://github.com/cphung1/scheduler/blob/master/public/images/cypress.png)
+
+## Getting Started
 
 1. Run `bundle install` to install dependencies
 2. Create `config/database.yml` by copying `config/database.example.yml`
