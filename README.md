@@ -1,31 +1,44 @@
 # Jungle
 
-A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
+A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example. Stripe is used for payments.
 
 ## Final Product 
 **Main Page**
-!["Screenshot of main page"](https://github.com/cphung1/scheduler/blob/master/public/images/main_page.png)
+!["Screenshot of main page"](https://github.com/cphung1/jungle-rails/blob/master/public/screenshots/main.png)
 
-**Create a new appointment**
-!["Screenshot of form to create an appointment"](https://github.com/cphung1/scheduler/blob/master/public/images/create_appt.png)
+**Empty Cart**
+!["Screenshot of empty cart"](https://github.com/cphung1/jungle-rails/blob/master/public/screenshots/empty_cart.png)
 
-**Delete Confirmation**
-!["Screenshot of confirmation for deleting appointment"](https://github.com/cphung1/scheduler/blob/master/public/images/delete_appt.png)
+**Cart**
+!["Screenshot of cart"](https://github.com/cphung1/jungle-rails/blob/master/public/screenshots/cart_checkout.png)
 
-**Transition States**
-!["Screenshot of loading status for async requests"](https://github.com/cphung1/scheduler/blob/master/public/images/transition_saving.png)
+**Cart Checkout**
+!["Screenshot of cart checkout"](https://github.com/cphung1/jungle-rails/blob/master/public/screenshots/checkout_card_info.png)
 
-**Error Handling**
-!["Screenshot of error handling"](https://github.com/cphung1/scheduler/blob/master/public/images/error_msg.png)
+**Order Confrimation**
+!["Screenshot of order confrimation"](https://github.com/cphung1/jungle-rails/blob/master/public/screenshots/order_confirmed.png)
 
-**Storybook Component Tests**
-!["Screenshot of Storybook Component Tests"](https://github.com/cphung1/scheduler/blob/master/public/images/storybook.png)
+**Signup**
+!["Screenshot of signup"](https://github.com/cphung1/jungle-rails/blob/master/public/screenshots/signup.png)
 
-**Jest Unit Tests**
-!["Screenshot of Jest Unit Tests"](https://github.com/cphung1/scheduler/blob/master/public/images/jest.png)
+**Admin Authentication**
+!["Screenshot of admin authentication"](https://github.com/cphung1/jungle-rails/blob/master/public/screenshots/admin_authentication.png)
 
-**Cypress E2E Tests**
-!["Screenshot of Cypress E2E Tests"](https://github.com/cphung1/scheduler/blob/master/public/images/cypress.png)
+**Admin Dashboard**
+!["Screenshot of dahsboard"](https://github.com/cphung1/jungle-rails/blob/master/public/screenshots/admin_dashboard.png)
+
+**Admin Categories List**
+!["Screenshot of admin categories"](https://github.com/cphung1/jungle-rails/blob/master/public/screenshots/admin_categories.png)
+
+**Admin Create New Category**
+!["Screenshot of create new category"](https://github.com/cphung1/jungle-rails/blob/master/public/screenshots/admin_new_categories.png)
+
+**Admin Products List**
+!["Screenshot of product list"](https://github.com/cphung1/jungle-rails/blob/master/public/screenshots/admin_products.png)
+
+**Admin Create New Product**
+!["Screenshot of create new product"](https://github.com/cphung1/jungle-rails/blob/master/public/screenshots/new_product.png)
+
 
 ## Getting Started
 
