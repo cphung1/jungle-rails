@@ -6,6 +6,9 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 **Main Page**
 !["Screenshot of main page"](https://github.com/cphung1/jungle-rails/blob/master/public/screenshots/main.png)
 
+**Product Details**
+!["Screenshot of product details"](https://github.com/cphung1/jungle-rails/blob/master/public/screenshots/doggo.png)
+
 **Empty Cart**
 !["Screenshot of empty cart"](https://github.com/cphung1/jungle-rails/blob/master/public/screenshots/empty_cart.png)
 
