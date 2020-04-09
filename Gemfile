@@ -38,6 +38,7 @@ gem 'faker'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
+gem 'aws-sdk', '~> 2'
 
 group :development, :test do
   gem 'rspec-rails', '~> 3.5'
